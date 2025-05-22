@@ -112,3 +112,4 @@ This script is provided for educational and informational purposes only. Use at 
 
 ---
 
+murder mystery 2 script, silent aim, esp, auto aim, auto farm, no key, arceus x, github, mobile
